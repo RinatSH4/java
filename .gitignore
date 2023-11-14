@@ -1,2 +1,4 @@
 .idea/
 gitLesson.iml
+*.DS_STORE
+bin/
