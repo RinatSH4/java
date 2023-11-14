@@ -4,4 +4,4 @@ config/
 .idea/
 
 *.sass
-
+*.iml
